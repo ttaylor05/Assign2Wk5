@@ -105,7 +105,8 @@ fieldset input {
    width: 98%;
 }
 .right-side {
-   width: 350px;
+   width: 370px;
+   padding-left: 19px;
 }
 .button1 {
    width: 50%;
